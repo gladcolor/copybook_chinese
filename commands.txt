@@ -1,0 +1,5 @@
+cd E:\OneDrive_PSU\OneDrive - The Pennsylvania State University\Personal\Projects\copybook_chinese
+E:
+cd E:\OneDrive_PSU\OneDrive - The Pennsylvania State University\Personal\Projects\copybook_chinese
+conda activate street_mapping_env
+jupyter lab
